@@ -117,3 +117,39 @@
   background-size: cover;
   height: 800px;
 }
+
+.container2 {
+
+ background-color: lightgray;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 800px;
+}
+
+.container3 {
+
+ background-color: lightgray;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 800px;
+}
+
+form
+{
+    margin-top: 10%;
+}
+
+span{
+    color: black;
+}
+
+.anthoimg
+{
+    height: 230px;
+    width: 300px;
+    padding: 3px;
+}
