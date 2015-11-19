@@ -44,8 +44,37 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 .services ul li{width: 10em;height: 10em;border: 1px solid #ccc;padding: 0;border-radius: 50%;margin: 0 1.25em;line-height: 13.5em;color: #999;}
 .services ul li span{line-height: 2em;display: inline-block;font-weight: 300;}
 .services ul li span i{font-size: 3em;}
-.services ul li span b{display: block;font-size: 1em;font-weight: 300;}
+.services ul li span b{display: block;font-size: 1em;font-weight: 300; color:black;}
 
+.pic1
+{
+	background-image:url("http://a66c7b.medialib.glogster.com/media/3d/3dfe29b569abbe590814d4ea567fe4888e867db41382e7266cbb87681550a5fa/cloud-strife-profile-jpg.jpg")
+}
+
+.pic2
+{
+	background-image:url("http://vignette3.wikia.nocookie.net/finalfantasy/images/1/10/FFXIII-LightningUserbox.png/revision/latest?cb=20130202203428")
+}
+
+.pic3
+{
+	background-image: url("http://www.fffury.com/FF9/Images/Djidane.jpg");
+}
+
+.pic4
+
+{
+	background-image: url("http://www.finalfantasycosplay.net/wp-content/uploads/2009/09/tidus-cosplay1.jpg");
+}
+.pic5
+{
+	background-image: url("http://www.fffury.com/FF12/Images/Vaan.jpg");
+}
+
+.pic6
+{
+	background-image: url("http://www.finalfantasycosplay.net/wp-content/uploads/2009/10/squall.jpg");
+}
 
 /*testimonials*/
 .partners img{float: left;margin:0 75px 30px 0;}
@@ -100,7 +129,7 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 	body{font:300 13px/13px Roboto,Arial,Helvetica;}
 	.navbar-brand{padding-top: 11px;}
 	.services ul li{margin:0 0.5em; }
-	
+
 	.grid figure h2{font: 700 1.5em Roboto,Arial,Helvetica;}
 	figure.effect-oscar figcaption{padding: 12%;}
 	figure.effect-oscar figcaption::before,figure.effect-chico figcaption::before{top: 20px;right: 20px;bottom: 20px;left: 20px;}
@@ -114,16 +143,16 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 	.btn{padding: 1em 2em;}
 	.partners img{margin: 0 15px 25px 0;width: 157px;}
 	.services ul li{width: 9em;height: 9em;}
-	figure.effect-chico figcaption {padding: 2em;}	
+	figure.effect-chico figcaption {padding: 2em;}
 	figure.effect-oscar figcaption {padding: 20%;}
 	figure.effect-chico figcaption::before{top: 10px;right: 10px;bottom: 10px;left: 10px;}
-	.grid figure.effect-chico p{font-size: 0.6em;line-height: 1.5em;}	
+	.grid figure.effect-chico p{font-size: 0.6em;line-height: 1.5em;}
 }
 
 
 @media (max-width: 767px) {
 	body{font:300 12px/12px Roboto,Arial,Helvetica;}
-	.navbar-nav > li > a {line-height: 1em;}	
+	.navbar-nav > li > a {line-height: 1em;}
 	.navbar-brand{padding: 7px;}
 	.navbar-brand img{height: 37px;}
 	.navbar-toggle{margin-top: 12px;}
@@ -132,7 +161,7 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 
 	h2.text-center{text-align: left;font-size: 1.7em;}
 	h4 {font: 300 1.2em Roboto,Arial,Helvetica;}
-	#partners h2{padding: 0 1em;} 
+	#partners h2{padding: 0 1em;}
 	#home {padding-top: 5em;}
 
 	.partners{display: block;float: left;}
