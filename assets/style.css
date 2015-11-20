@@ -29,11 +29,11 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 .btn-primary{color: black ;background:#90CAF9;width: 100%;outline: none;}
 .btn-primary:hover,.btn-primary:active,.btn-primary:focus{background:#64B5F6;box-shadow: none;}
 
-.topbar {background:url(../images/lines.png);	height:5px;position: fixed;top: 0;width: 100%;z-index: 1000;}
+.topbar {background:url(../images/lines2.png);	height:5px;position: fixed;top: 0;width: 100%;z-index: 1000;}
 .navbar-nav > li > a{font-size: 1em;line-height: 3.6em;}
 .navbar-fixed-top{top: 5px;}
 .navbar-inverse{background: #111;}
-.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus{background: none;color: #E89F10;}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:hover, .navbar-inverse .navbar-nav>.active>a:focus{background: none;color: #90CAF9;}
 
 #head,.carousel{margin-top: 0;}
 
@@ -51,9 +51,21 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 	background-image:url("http://a66c7b.medialib.glogster.com/media/3d/3dfe29b569abbe590814d4ea567fe4888e867db41382e7266cbb87681550a5fa/cloud-strife-profile-jpg.jpg")
 }
 
+.pic1:hover
+{
+	height: 200px;
+	width: 200px;
+}
+
 .pic2
 {
 	background-image:url("http://vignette3.wikia.nocookie.net/finalfantasy/images/1/10/FFXIII-LightningUserbox.png/revision/latest?cb=20130202203428")
+}
+
+.pic2:hover
+{
+	height: 200px;
+	width: 200px;
 }
 
 .pic3
@@ -61,19 +73,44 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 	background-image: url("http://www.fffury.com/FF9/Images/Djidane.jpg");
 }
 
+.pic3:hover
+{
+	height: 200px;
+	width: 200px;
+}
+
 .pic4
 
 {
 	background-image: url("http://www.finalfantasycosplay.net/wp-content/uploads/2009/09/tidus-cosplay1.jpg");
 }
+
+.pic4:hover
+{
+	height: 200px;
+	width: 200px;
+}
+
 .pic5
 {
 	background-image: url("http://www.fffury.com/FF12/Images/Vaan.jpg");
 }
 
+.pic5:hover
+{
+	height: 200px;
+	width: 200px;
+}
+
 .pic6
 {
 	background-image: url("http://www.finalfantasycosplay.net/wp-content/uploads/2009/10/squall.jpg");
+}
+
+.pic6:hover
+{
+	height: 200px;
+	width: 200px;
 }
 
 /*testimonials*/
