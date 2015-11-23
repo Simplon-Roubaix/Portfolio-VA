@@ -20,6 +20,10 @@ h4 i{margin-right: 0.5em;}
 
 p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 
+.propos {
+ color: black;
+}
+
 .spacer{padding: 6em 0;}
 
 .btn{border:none;border-radius: 0;padding: 1em 4em;background: rgba(0,0,0,0.5);text-transform: uppercase;}
@@ -107,7 +111,11 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 	background-image: url("http://www.finalfantasycosplay.net/wp-content/uploads/2009/10/squall.jpg");
 }
 
+<<<<<<< HEAD
 .pic:hover
+=======
+.pic6:hover
+>>>>>>> 81e347c96f508c4d365465bbc99fc807611b7b1a
 {
 	height: 200px;
 	width: 200px;
@@ -204,7 +212,7 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 	.carousel-caption,.carousel-control,.carousel-indicators{display: none;}
 
 	h2.text-center{text-align: left;font-size: 1.7em;}
-	h4 {font: 300 1.2em Roboto,Arial,Helvetica;}
+	h4 {font: 300 1.2em Roboto,Arial,Helveticax;}
 	#partners h2{padding: 0 1em;}
 	#home {padding-top: 5em;}
 
