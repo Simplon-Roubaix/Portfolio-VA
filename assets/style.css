@@ -1,3 +1,6 @@
+/*****************************************************************************************************************************************************************************************************************************************************************************************************************CSS******************************************************************************************************************************************************************************************************************************************************************************************************************************************/
+
+
 body {	color:#333;	font:300 15px/15px Roboto,Arial,Helvetica;background:url(../images/bg2.jpg)  no-repeat fixed #fff; -webkit-font-smoothing:antialiased;}
 
 a{color:#00a9c6; text-decoration:none;}
@@ -50,6 +53,14 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 .services ul li span i{font-size: 3em;}
 .services ul li span b{display: block;font-size: 1em;font-weight: 300; color:black;}
 
+
+
+
+/*******************************************************************************************************************************************************************************************************************************************************************************************************CSS IMAGES BULLES**********************************************************************/
+
+
+
+
 .pic1
 {
 	background-image:url("http://a66c7b.medialib.glogster.com/media/3d/3dfe29b569abbe590814d4ea567fe4888e867db41382e7266cbb87681550a5fa/cloud-strife-profile-jpg.jpg")
@@ -72,16 +83,6 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 	width: 200px;
 }
 
-.pic3
-{
-	background-image: url("http://perlbal.hi-pi.com/blog-images/4187/gd/1133548735/Djidane.jpg");
-}
-
-.pic3:hover
-{
-	height: 200px;
-	width: 200px;
-}
 
 .pic4
 
@@ -90,17 +91,6 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 }
 
 .pic4:hover
-{
-	height: 200px;
-	width: 200px;
-}
-
-.pic5
-{
-	background-image: url("http://img3.wikia.nocookie.net/__cb20110813060854/finalfantasy/images/e/e9/VaanCGScreen1.jpg");
-}
-
-.pic5:hover
 {
 	height: 200px;
 	width: 200px;
@@ -147,14 +137,6 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 /*about us*/
 
 
-
-
-
-
-
-
-
-
 /*contact*/
 .contactform textarea,.contactform input{width: 100%;padding:1em;border:1px solid #ccc;margin-bottom: 1em;border-radius: 0;outline: none;}
 /*contact*/
@@ -171,6 +153,12 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 	margin-top: -30px;
 	padding-left: 1px;
 }
+
+
+
+
+/*****************************************************************************************************************************************************************************************************************************************************************************************************************CSS MOBILE*******************************************************************/
+
 
 
 @media (max-width: 1200px) {
