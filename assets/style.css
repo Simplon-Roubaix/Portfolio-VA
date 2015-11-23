@@ -20,6 +20,10 @@ h4 i{margin-right: 0.5em;}
 
 p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 
+.propos {
+ color: black;
+}
+
 .spacer{padding: 6em 0;}
 
 .btn{border:none;border-radius: 0;padding: 1em 4em;background: rgba(0,0,0,0.5);text-transform: uppercase;}
