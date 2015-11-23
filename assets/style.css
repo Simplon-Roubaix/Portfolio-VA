@@ -63,6 +63,7 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 
 .pic1
 {
+  transition: all .5s ease;
 	background-image:url("http://a66c7b.medialib.glogster.com/media/3d/3dfe29b569abbe590814d4ea567fe4888e867db41382e7266cbb87681550a5fa/cloud-strife-profile-jpg.jpg")
 }
 
@@ -74,6 +75,7 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 
 .pic2
 {
+  transition: all .5s ease;
 	background-image:url("http://vignette3.wikia.nocookie.net/finalfantasy/images/1/10/FFXIII-LightningUserbox.png/revision/latest?cb=20130202203428")
 }
 
@@ -87,6 +89,7 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 .pic4
 
 {
+  transition: all .5s ease;
 	background-image: url("http://www.finalfantasycosplay.net/wp-content/uploads/2009/09/tidus-cosplay1.jpg");
 }
 
@@ -98,6 +101,7 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 
 .pic6
 {
+  transition: all .5s ease;
 	background-image: url("http://www.finalfantasycosplay.net/wp-content/uploads/2009/10/squall.jpg");
 }
 
