@@ -90,7 +90,8 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 
 {
   transition: all .5s ease;
-	background-image: url("http://www.finalfantasycosplay.net/wp-content/uploads/2009/09/tidus-cosplay1.jpg");
+	background-image: url("http://aws-cf.ados.fr/prod/photos/2/5/9/7570259/1994799/big-199479910b.jpg?v=5");
+    background-position: 300px;
 }
 
 .pic4:hover
@@ -102,7 +103,8 @@ p{font-size:1em;line-height: 1.7em; margin-bottom: 1.7em;}
 .pic6
 {
   transition: all .5s ease;
-	background-image: url("http://www.finalfantasycosplay.net/wp-content/uploads/2009/10/squall.jpg");
+	background-image: url("http://i.skyrock.net/6664/23016664/pics/665990817.jpg");
+    background-position: 280px;
 }
 
 .pic6:hover
